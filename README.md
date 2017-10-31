@@ -27,5 +27,5 @@ El objetivo fue cumplir con la realización de la página web pero en grupos de 
 
 * Luego del proceso de desarrollo de la página web podemos mostrar los resultados:
 
-![lyft](docs/lyft.jpg)
+![lyft](docs/lyft.png)
 
