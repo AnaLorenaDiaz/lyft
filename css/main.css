@@ -152,3 +152,147 @@ button{
   border-color: white;
   border-radius: 10px;
 }
+
+
+/***************************VIDEOS******PARTE ---- CARLA************************/
+
+.boxvideo {
+  overflow: auto;
+  height: 502px;
+}
+
+.texto-video {
+  width: 300px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: justify;
+  padding: 0;
+  margin: 70px 70px 170px 70px;
+}
+
+.texto-video, .video {
+  float: left;
+}
+
+.texto-video h3 {
+  font-size: 14px;
+  margin-top: 30px;
+  font-weight: normal;
+}
+
+.texto-video h2 {
+  text-transform: uppercase;
+  font-weight: 800;
+  margin: 0;
+}
+
+.texto-video h5 {
+  font-size: 8px;
+  text-transform: uppercase;
+  margin-bottom: 0
+}
+/********ESTILOS VIDEO*********/
+iframe {
+  border: none;
+}
+
+/****************************FOOTER*************************************/
+
+footer {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #333447;
+  color: white;
+  width: 100%;
+  margin: 0;
+}
+
+footer ul {
+  list-style: none;
+}
+
+/***************************LOGOS**************************/
+
+.logo-store {
+  width: 120px;
+  height: 40px;
+}
+
+.log-in, .partner, .learn, .logos {
+  width: 200px;
+  display: inline-block;
+  margin: 40px;
+}
+
+/******+++++++++++++++++******FOOTER LISTAS DE OPCIONES***************/
+
+footer h2 {
+  text-transform: uppercase;
+  font-size: 16px;
+  margin-left: 55px;
+  color: #BFC7D9;
+}
+
+footer li {
+  margin: 20px;
+  font-size: 14px;
+}
+
+/****************************HOVER******************************/
+
+footer li:hover, .copyrigth a:hover {
+  color: #FF00BF;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/************************LINEA DIVISORA********************/
+
+hr {
+  margin-top: 2px;
+  text-align: center;
+  width: 800px;
+}
+
+/************************ICONOS REDES SOCIALES********************/
+
+i {
+  font-size: 20px;
+  position: relative;
+  top: 7px;
+  left: 0px;
+  margin: 0;
+}
+
+.icon {
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+  border-radius: 100px;
+  border: 2px solid white;
+  display: inline-block;
+  margin: 40px;
+  ;
+}
+
+.social {
+  text-align: center;
+}
+
+/************************copyrigth********************/
+
+.copyrigth {
+  width: 100%;
+  height: 60px;
+  text-align: center;
+}
+
+.copyrigth p {
+  display: inline-block;
+  margin: 10px;
+  font-size: 14px;
+}
+
+.copyrigth a {
+  text-decoration: none;
+  color: inherit;
+}
+
