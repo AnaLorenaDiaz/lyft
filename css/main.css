@@ -157,8 +157,12 @@ button{
 /***************************VIDEOS******PARTE ---- CARLA************************/
 
 .boxvideo {
+  position: relative;
+  top: 543px;
   overflow: auto;
-  height: 502px;
+  height: 498px;
+  margin-left: 0px;
+
 }
 
 .texto-video {
@@ -198,6 +202,8 @@ iframe {
 /****************************FOOTER*************************************/
 
 footer {
+  position: relative;
+  top:535px;
   font-family: 'Montserrat', sans-serif;
   background-color: #333447;
   color: white;
@@ -227,7 +233,7 @@ footer ul {
 footer h2 {
   text-transform: uppercase;
   font-size: 16px;
-  margin-left: 55px;
+  margin-left: 20px;
   color: #BFC7D9;
 }
 
@@ -248,7 +254,7 @@ footer li:hover, .copyrigth a:hover {
 
 hr {
   margin-top: 2px;
-  text-align: center;
+  margin-left: 250px;
   width: 800px;
 }
 
@@ -295,4 +301,3 @@ i {
   text-decoration: none;
   color: inherit;
 }
-
