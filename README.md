@@ -3,10 +3,12 @@
 
 ## Objetivo
 
-El reto consiste en replicar el sitio de **Lyft**, este será el resultado
-a lograr:
+El objetivo fue cumplir con la realización de la página web pero en grupos de dos personas.
 
-![Lyft Website](docs/fullpage.png)
+## Integrantes
+
+*Carla Centeno
+*Ana Díaz
 
 ## Epecificaciones
 
@@ -15,30 +17,15 @@ a lograr:
 * En la carpeta `css` se encuentra el archivo `main.css` donde se encuentran los archivos del proyecto.
 
 * Dentro de la carpeta `assets` se encuentra la carpeta `images` donde
-  se encuentran las imágenes a utilizar.
+  se encuentran las imágenes a utilizar y tambien se encuentra la carpeta `icon`la cual a su vez contiene otra carpeta llamada `icomoon`     la cual contiene los iconos descargados de esa misma pagina.
+  
+## Sobre la página web
 
-* En la carpeta `icon` se encuentra el archivo `style.css` donde se encuentran los iconos. Estos iconos se han obtenido de `Icomoon`.
+* Tanto el index como el css se encuentran comentados para que sea fácil de entender
 
-* Esta web utiliza la tipografía `Montserrat`.
+## Página web terminada
 
-* La paleta de colores esta conformada por :
+* Luego del proceso de desarrollo de la página web podemos mostrar los resultados:
 
-  - Botones, hover: `#FF00BF`
-  - Fondo de `footer`: `#333447`
-  - Título del formulario: `#352384`
-  - Texto del formulario: `#728099`
-  - Gradiente morado: `linear-gradient(#76278F, #2B1E66);`
+![lyft](docs/lyft.jpg)
 
-* En el footer hay diversos enlaces y cada uno de estos contiene un estilo `hover` ,como la siguiente animación:
-
-  ![Lyft - Footer](docs/footer.gif)
-
-
-
-* Se utilizaron etiquetas `iframe` para almacenar los videos a mostrar.
-
-  - Estos son los videos de Youtube:
-    * https://www.youtube.com/watch?v=fLSmUWOYpKw
-    * https://www.youtube.com/watch?v=V7j8Aqxmbs8
-    * https://www.youtube.com/watch?v=xj2VWLV0xCU
-*  En la parte superior se encuentra un pequeño formulario que se ha desarrollado con las etiqueta `form` , `input` y `button`.
